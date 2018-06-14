@@ -1,0 +1,202 @@
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE1MjkwMTEzNTcsImp0aSI6IjEwMDJkZjJjLTcwMTktMTFlOC04MjBhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAxMTM1NywiZXhwIjoxNTI5MDE0OTU3LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.MVBT3ArKdCZfENj3G6zsKxKTu1jNR9KIMe5Oe23t5Aunp7GTJlJMmHfJjRPmV3d0Hyu5JHXCp_dYV8xa8-ndEA
+
+###
+
+GET http://localhost:8080/token
+
+<> 2018-06-14T112238.200.json
+
+###
+
+GET http://localhost:8080/token
+
+###
+
+GET http://localhost:8080/token
+
+<> 2018-06-14T111447.200.json
+
+###
+
+GET http://localhost:8080/token
+
+<> 2018-06-14T111119.200.json
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMTA0NjAsImp0aSI6ImY5MWE2YTVjLTcwMTYtMTFlOC1hYTBlLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAxMDQ2MCwiZXhwIjoxNTI5MDE0MDYwLCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.uCZQghyNPVu6tYdtsWFHToc8HDmk0jqw1t0W3e7LfiU
+
+###
+
+GET http://localhost:8080/token
+
+<> 2018-06-14T110740.200.json
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+<> 2018-06-14T110248.200.html
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+<> 2018-06-14T110135.200.html
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+<> 2018-06-14T105841.200.html
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+<> 2018-06-14T104828.200.json
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1MjkwMDkwMTUsImp0aSI6IjliYzVmYTRhLTcwMTMtMTFlOC05MGNhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAwOTAxNSwiZXhwIjoxNTI5MDEyNjE1LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.E1S-ET2xMaFciyjZn8cVMJm-ncrFSdzOkGv3vHktxSM
+
+###
+
+GET http://localhost:8080/token
+
+<> 2018-06-14T104335.200.json
+
+###
+
+GET http://localhost:8080/token
+
+<> 2018-06-14T103546.200.json
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZW1haWwiOiJqb2huZG9lQGRvbWFpbi5jb20ifQ.HfqNE3dLJdtiHh0-DA5CKrrstr6LYfsVLdukfBn9hMY
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZW1haWwiOiJqb2huZG9lQGRvbWFpbi5jb20ifQ.HfqNE3dLJdtiHh0-DA5CKrrstr6LYfsVLdukfBn9hMY
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+Authorization: Bearer: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZW1haWwiOiJqb2huZG9lQGRvbWFpbi5jb20ifQ.HfqNE3dLJdtiHh0-DA5CKrrstr6LYfsVLdukfBn9hMY
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZW1haWwiOiJqb2huZG9lQGRvbWFpbi5jb20ifQ.HfqNE3dLJdtiHh0-DA5CKrrstr6LYfsVLdukfBn9hMY
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZW1haWwiOiJqb2huZG9lQGRvbWFpbi5jb20ifQ.HfqNE3dLJdtiHh0-DA5CKrrstr6LYfsVLdukfBn9hMY
+
+###
+
+GET http://localhost:8080
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZW1haWwiOiJqb2huZG9lQGRvbWFpbi5jb20ifQ.HfqNE3dLJdtiHh0-DA5CKrrstr6LYfsVLdukfBn9hMY
+
+###
+
+GET http://localhost:8080
+
+###
+
+GET http://localhost:8080/token
+
+<> 2018-06-14T103035.200.json
+
+###
+
+GET http://localhost:8080/token
+
+###
+
+GET http://localhost:8000/token
+
+###
+
+GET http://token
+
+###
+

@@ -1,0 +1,12 @@
+GET http://localhost:8080/token
+
+###
+
+GET http://localhost:8080/
+
+###
+GET http://localhost:8080/api
+Accept: application/json
+Stoken: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpYXQiOjE1MjkwMTEzNTcsImp0aSI6IjEwMDJkZjJjLTcwMTktMTFlOC04MjBhLTgwZmE1YjUzMzcxMyIsImlzcyI6e30sIm5iZiI6MTUyOTAxMTM1NywiZXhwIjoxNTI5MDE0OTU3LCJkdGEiOnsiaWQiOjEsImVtYWlsIjoiam9obmRvZUBkb21haW4uY29tIn19.MVBT3ArKdCZfENj3G6zsKxKTu1jNR9KIMe5Oe23t5Aunp7GTJlJMmHfJjRPmV3d0Hyu5JHXCp_dYV8xa8-ndEA
+
+###
